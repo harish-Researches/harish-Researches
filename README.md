@@ -1,4 +1,4 @@
-### Hi 👋 I'm Harish
+## Hi 👋 I'm Harish
 
 🚀 Machine Learning Engineer
 🤖 AI | Deep Learning | Computer Vision

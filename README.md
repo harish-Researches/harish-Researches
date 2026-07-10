@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi 👋 I'm Harish
 
-<!--
-**harish-Researches/harish-Researches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Engineer
+🤖 AI | Deep Learning | Computer Vision
+📊 Python | TensorFlow | PyTorch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=700&color=00FFD5&center=true&vCenter=true&width=1200&lines=Machine+Learning+Engineer;Predict.+Learn.+Improve.;Training+Models...;Engineering+Intelligence...;Deploying+AI+Solutions...;Always+Exploring+Machine+Learning..." />
+</p>
+<p align="center">
+  <img src="Workplace.gif" width="100%" alt="Machine Learning Workspace">
+</p>

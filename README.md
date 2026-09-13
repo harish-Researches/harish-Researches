@@ -1,7 +1,8 @@
 ## Hi 👋 I'm Harish
 
-🚀 Machine Learning Engineer
-🤖 AI | Deep Learning | Computer Vision
+🧠 Machine learning Engineer
+
+🚀 AI | Deep Learning | Computer Vision
 📊 Python | TensorFlow | PyTorch
 
 <p align="center">
@@ -9,12 +10,12 @@
 </p>
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="53%" valign="middle">
 
 <h2>👋 About Me</h2>
 
 <p>
-Hi, I'm Harish, a passionate Machine Learning enthusiast who enjoys
+Hi, I'm Harish, a passionate Machine Learning enthusiast from India who enjoys
 learning how intelligent systems work and building practical solutions
 with data. I’m currently developing my skills in Python, Data Science, Machine Learning, Mlops, 
  Deep Learning, Computer-vision and NLP through hands-on projects. I enjoy understanding
